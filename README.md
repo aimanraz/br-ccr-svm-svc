@@ -1,4 +1,4 @@
-# Breast Cancer Detection using Support Vector Machine.
+# Breast Cancer Detection using Support Vector Machine
 Classify tumors malignant or benign based on several observation/features. Early diagnose could increase the chances of survival.
 
 ## Problem Statement
