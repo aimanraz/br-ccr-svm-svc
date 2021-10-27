@@ -2,7 +2,7 @@
 Classify tumors malignant or benign based on several observation/features. Early diagnose could increase the chances of survival.
 
 ## Problem Statement
-Fine needle aspirate (FNA) is process extracting cell from tumor of the patient. Once extracted, images of tumor is produced for observation and to collect more data about the tumor. Feature of the tumor extracted from the images such as radius, perimeter, fractal dimension and etc. This feature can be served as the independent variable of machine learning input to predict whether the tumors is malignant or benign. 
+Fine needle aspirate (FNA) is process extracting cell from tumor of the patient. Once extracted, images of tumor is produced for observation and to collect more data about the tumors. Feature of the tumors extracted from the images such as radius, perimeter, fractal dimension and etc. This feature can be served as the independent variable of machine learning input to predict whether the tumors is malignant or benign. 
 
 ## Code and Resources Used 
 **Python Version:** 3.8++
