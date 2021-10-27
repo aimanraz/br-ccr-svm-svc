@@ -41,7 +41,7 @@ By using GridSearchCV method, below are the best parameter used for this case  s
 * kernel : rbf(radial basis function)
 
 ## Model performance
-The confusion matrix of the model with the final accuracy of 97.368 %
+The confusion matrix of the model with the final accuracy of 97.368 %, this matrix also shows that, in a given situation, the model failed to predict 3 patient with malignant type of tumor which is not great.
 
 ![Confusion matrix](https://github.com/aimanraz/br-ccr-svm-svc/blob/main/img/cm.png)
 
