@@ -9,7 +9,7 @@ Fine needle aspirate (FNA) is process extracting cell from tumor of the patient.
 
 **Packages:** pandas, numpy, sklearn, matplotlib, and seaborn.
 
-## Data collection and description
+## Data Collection and Description
 The dataset imported from sklearn.dataset libraries or can be download at [UCI Machine learning](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)). Datasets are linearly separable using all 30 input features. Consist of 569 number of instances with a class distribution of 212 Malignant, 357 Benign. The target class are Malignant(0) and Benign(1). 30 features are used, examples:
 
 * radius (mean of distances from center to points on the perimeter)
