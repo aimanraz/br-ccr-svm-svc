@@ -53,7 +53,7 @@ The confusion matrix of the model with the final accuracy of 97.368 %. This matr
 
 ## Futher improvement
 
-* Modifying the hyperparameter (I'm still learning).
+* Modifying the hyperparameter.
 * By combining Computer vision/Machine learning techniques to directly classify the cancer tissue images.
 
 let the data drive you...and beyond.
